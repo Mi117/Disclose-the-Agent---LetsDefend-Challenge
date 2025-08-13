@@ -1,4 +1,5 @@
 # Disclose-the-Agent---LetsDefend-Challenge
+Unmasking the Operative: A Step-by-Step Forensic Analysis of SMTP Traffic and Hidden Clues
 
 ![agentsmith](https://github.com/user-attachments/assets/6a65ca36-d278-4893-bb51-767f159f56fa)
 
